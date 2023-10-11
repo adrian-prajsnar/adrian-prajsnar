@@ -1,6 +1,6 @@
 # Hi there, I'm Adrian! 👋
 
-Welcome to my GitHub profile. I'm a passionate Frontend developer looking to make my mark in the exciting world of IT. <br>
+Welcome to my GitHub profile. I'm a passionate Frontend developer looking to make my mark in the exciting world of IT.
 Over the past year, web development has transformed from a curiosity into my life's passion.
 
 ## 🚀 About Me
@@ -18,5 +18,5 @@ I'm continuously expanding my knowledge and honing my skills. Currently, I'm del
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/adrian-prajsnar/).
 - 📧 Reach out to me via [Email](mailto:adrian.prajsnar11@gmail.com).
 
-Thank you for stopping by my profile! <br>
+Thank you for stopping by my profile!
 Please don't hesitate to contact me for any inquiries, collaborations, or just to chat about web development and technology. 😊
