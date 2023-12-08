@@ -7,7 +7,7 @@ Over the past year, web development has transformed from a curiosity into my lif
 
 - 💼 I currently work as an Inbound Sales Agent.
 - 💻 Web Development has become my driving force, and I'm eager to transition into the IT sector.
-- 🌐 Tech Stack: **HTML, CSS & RWD, JavaScript, React.js, React Router, Redux, Context API, Tailwind CSS, CSS Modules, Git & GitHub**.
+- 🌐 Tech Stack: **HTML, CSS & RWD, JavaScript, React.js, React Router, React Query, Redux, Tailwind CSS, CSS Modules, Styled Components, Supabase, Git & GitHub**.
 
 ## 🌱 What I'm Up To
 
