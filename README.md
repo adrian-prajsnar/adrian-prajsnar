@@ -1,22 +1,23 @@
 # Hi there, I'm Adrian! 👋
 
-Welcome to my GitHub profile. I'm a passionate Frontend developer looking to make my mark in the exciting world of IT.
-Over the past year, web development has transformed from a curiosity into my life's passion.
+Welcome to my GitHub profile. I'm a self-driven Frontend Developer who loves crafting amazing user experiences in the dynamic world of web development.
+I believe there's no problem without a solution – tackling challenges head-on is where the fun begins!
+Since September 2022, I've been immersed in the world of web development, transforming a simple curiosity into a deep-seated life passion.
 
 ## 🚀 About Me
 
-- 💼 I currently work as an Inbound Sales Agent.
-- 💻 Web Development has become my driving force, and I'm eager to transition into the IT sector.
-- 🌐 Tech Stack: **HTML, CSS & RWD, JavaScript, React.js, React Router, React Query, Redux, Tailwind CSS, CSS Modules, Styled Components, Supabase, Git & GitHub**.
+- 💼 Currently, I work as an Inbound Sales Agent at Farnell Electronics, where I am actively involved in overseeing and ensuring the seamless processing of orders for customers across Europe.
+- 💻 Web Development is my driving force, and I'm constantly seeking new challenges to enhance my skills.
+- 🌐 Tech Stack: **HTML, CSS & RWD, JavaScript, React.js, Redux, React Router, React Query, Tailwind CSS, CSS Modules, Styled Components, Supabase, Git & GitHub**.
 
 ## 🌱 What I'm Up To
 
-I'm continuously expanding my knowledge and honing my skills. Currently, I'm delving into advanced **React.js** concepts, as it's a crucial part of modern web development.
+I'm consistently expanding my knowledge and honing my skills. Presently, I'm diving into advanced **React.js** concepts, a crucial aspect of modern web development.
 
 ## 📫 Let's Connect
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/adrian-prajsnar/).
 - 📧 Reach out to me via [Email](mailto:adrian.prajsnar11@gmail.com).
 
-Thank you for stopping by my profile!
-Please don't hesitate to contact me for any inquiries, collaborations, or just to chat about web development and technology. 😊
+Thank you for stopping by my profile! Feel free to contact me for any inquiries, collaborations, or just to chat about web development and technology. 😊
+
