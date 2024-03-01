@@ -8,11 +8,11 @@ Since September 2022, I've been immersed in the world of web development, transf
 
 - 💼 Currently, I work as an Inbound Sales Agent at Farnell Electronics, where I am actively involved in overseeing and ensuring the seamless processing of orders for customers across Europe.
 - 💻 Web Development is my driving force, and I'm constantly seeking new challenges to enhance my skills. In January 2024 I landed my first commercial project as a Freelance Frontend Developer.
-- 🌐 Tech Stack: **HTML, CSS & RWD, JavaScript, TypeScript, React.js, Redux, React Router, React Query, Tailwind CSS, CSS Modules, Styled Components, Supabase, Git & GitHub**.
+- 🌐 Tech Stack: **HTML, CSS & RWD, JavaScript, TypeScript, React.js, Next.js, Redux, React Router, React Query, Tailwind CSS, CSS Modules, Styled Components, Supabase, Git & GitHub**.
 
 ## 🌱 What I'm Up To
 
-I'm consistently expanding my knowledge and honing my skills. Presently, I'm diving into advanced **React.js** concepts, a crucial aspect of modern web development.
+I'm consistently expanding my knowledge and honing my skills. Presently, I'm diving into advanced **React.js & Next.js** concepts, a crucial aspect of modern web development.
 
 ## 📫 Let's Connect
 
