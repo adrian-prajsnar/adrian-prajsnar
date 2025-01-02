@@ -5,8 +5,8 @@ I've been immersed in the world of web development since September 2022, turning
 
 ## 🚀 About me
 
-- 💼 I work as a Junior Fullstack Developer at [TUATARA(https://www.linkedin.com/company/tuatara-sp-z-o-o-/)].
-- 💻 Web development is my driving force and I'm always looking for new challenges to improve my skills. In January 2024, I landed my first commercial experience as a freelance front-end developer, where I have developed a machine learning web application using React.js with TypeScript and styled-components. You can see my work here -> [app.mlab0.com](https://app.mlab0.com/). Recently I also started developing a full-stack website using Next.js with Typescript, Tailwind CSS, Prisma and mySQL db. You can see it here -> [Kup Bazę Firm(https://kupbazefirm.pl/)].
+- 💼 I work as a Junior Fullstack Developer at [TUATARA](https://www.linkedin.com/company/tuatara-sp-z-o-o-/).
+- 💻 Web development is my driving force and I'm always looking for new challenges to improve my skills. In January 2024, I landed my first commercial experience as a freelance front-end developer, where I have developed a machine learning web application using React.js with TypeScript and styled-components. You can see my work here -> [app.mlab0.com](https://app.mlab0.com/). Recently I also started developing a full-stack website using Next.js with Typescript, Tailwind CSS, Prisma and mySQL db. You can see it here -> [Kup Bazę Firm](https://kupbazefirm.pl/).
 - 🌐 Tech Stack: HTML, CSS & RWD, JavaScript, TypeScript, React.js, Next.js, Redux, React Router, React Query, Tailwind CSS, Material UI, CSS Modules, Styled Components, Supabase, Prisma, Docker Git & GitHub.
 
 ## 🌱 What I'm up to
