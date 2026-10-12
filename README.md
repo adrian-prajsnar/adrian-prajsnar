@@ -1,29 +1,11 @@
-# Hi, I'm Adrian! 👋
+# Hi, I'm Adrian 👋
 
-Welcome to my GitHub profile. I'm a self-driven programmer who enjoys challenges, constant improvement, and sees no problem without a solution.
-I've been immersed in the world of web development since September 2022, turning a simple curiosity into a career.
+**Software Engineer focused on building software that works.**
 
-## 🚀 About me
+My background is in frontend development, with JavaScript and TypeScript at the core of my work. Today, I work across the stack — from web and mobile applications to backend services, integrations, and AI-powered solutions.
 
-💼 I am a Software Engineer, currently working as a Frontend Developer at [GuestSage](https://www.linkedin.com/company/guestsage-inc/).
+I value ownership, sound engineering, and practical problem-solving. I adapt to the task at hand, get up to speed with new technologies, and focus on delivering solutions rather than just writing code.
 
-💻 Web development is my driving force and I'm always looking for new challenges to improve my skills.
+Currently a Frontend Developer at [GuestSage](https://www.linkedin.com/company/guestsage-inc/).
 
-In January 2024, I landed my first commercial experience as an "after hours" freelance front-end developer, where I have developed a machine learning web application using React.js with TypeScript and styled-components. Also, I have been developing a full-stack website using Next.js with Typescript, Tailwind CSS, Prisma and mySQL db. You can see it here -> [Kup Bazę Firm](https://kupbazefirm.pl/).
-
-Throughout my professional career, I have worked on a project where I developed a self-service platform as well as a task-management CRUD application for one of the largest banking institutions in Poland.
-
-Currently, I am developing cloud applications for the hotel and hospitality industry for one of the largest companies in the USA, as well as for other large and small companies in Poland. The project for the American company focuses on developing a new, separate Call Center module.
-
-🌐 Tech Stack: HTML, CSS & RWD, JavaScript, TypeScript, React.js, Next.js, Node.js, Tanstack/React Query, Kafka & RabbitMQ, Zustand, Material UI, REST API, GraphQL, SQL, TypeORM, MongoDB, Docker, Kubernetes, SCSS, Styled Components, Tailwind CSS, Git & GitHub/GitLab/Bitbucket, Jenkins, Camunda
-
-## 🌱 What I'm up to
-
-I'm constantly expanding my knowledge and improving my skills. I'm currently taking a course and learning **Advanced CSS** as well as practising my existing skills on real-world, commercial projects.
-
-## 📫 Let's Connect
-
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/adrian-prajsnar/).
-- 📧 Reach out to me via [email](mailto:xxx.xxx@gmail.com).
-
-Thank you for visiting my profile! Feel free to contact me for any inquiries. 😊
+[LinkedIn](https://www.linkedin.com/in/adrian-prajsnar/)
