@@ -6,6 +6,6 @@ My background is in frontend development, with JavaScript and TypeScript at the 
 
 I value ownership, sound engineering, and practical problem-solving. I adapt to the task at hand, get up to speed with new technologies, and focus on delivering solutions rather than just writing code.
 
-Currently a Frontend Developer at [GuestSage](https://www.linkedin.com/company/guestsage-inc/).
+Currently a Software Engineer at [GuestSage](https://www.linkedin.com/company/guestsage-inc/).
 
 [LinkedIn](https://www.linkedin.com/in/adrian-prajsnar/)
